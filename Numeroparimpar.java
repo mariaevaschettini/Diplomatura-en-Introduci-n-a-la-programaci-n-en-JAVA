@@ -1,3 +1,6 @@
+
+/**Indicar si el numero ingresado es par o impar**/
+
 import java.util.Scanner;
 
 public class Numeroparimpar {
