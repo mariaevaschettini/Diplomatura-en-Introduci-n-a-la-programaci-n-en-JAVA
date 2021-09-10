@@ -1,3 +1,10 @@
+
+/** Escribir el algoritmo que, a partir de la cantidad de bancos de un aula y la cantidad
+de alumnos inscriptos para un curso, permita determinar si alcanzan los bancos
+existentes. De no ser así, informar además cuantos bancos sería necesario agregar. El
+usuario deberá ingresar por teclado tanto la cantidad de bancos que tiene el aula, como
+la cantidad de alumnos inscriptos para el curso. **/
+
 import java.util.Scanner;
 
 public class Bancosescuela {
